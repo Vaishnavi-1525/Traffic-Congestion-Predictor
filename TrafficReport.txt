@@ -1,0 +1,24 @@
+
+Traffic Prediction Report
+-------------------------
+Date: 28-Jul-2025
+Time: 08:30 AM
+Location: Downtown
+Weather: Rainy
+Predicted Congestion: High Congestion
+
+Traffic Prediction Report
+-------------------------
+Date: 28-Jul-2025
+Time: 02:15 PM
+Location: Residential Area
+Weather: Sunny
+Predicted Congestion: Medium Congestion
+
+Traffic Prediction Report
+-------------------------
+Date: 28-Jul-2025
+Time: 10:45 PM
+Location: Highway
+Weather: Foggy
+Predicted Congestion: Low Congestion
